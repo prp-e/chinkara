@@ -83,3 +83,8 @@ print(answer)
 * The possible solution might be using "single language" datasets. For example `dolly` from databricks might be a good choice, since it's only in English. 
 
 ## What's next?
+
+- [ ] Gathering data and creating a dataset of our own. 
+- [ ] Training on different datasets and check the outcome. 
+- [ ] Training the model for specific tasks.
+- [ ] Providing Different models in terms of parameters, languages, etc.
