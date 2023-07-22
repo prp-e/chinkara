@@ -86,5 +86,6 @@ print(answer)
 
 - [ ] Gathering data and creating a dataset of our own. 
 - [ ] Training on different datasets and check the outcome. 
+    - [ ] Already existing datasets such as Alpaca or Dolly.
 - [ ] Training the model for specific tasks.
 - [ ] Providing Different models in terms of parameters, languages, etc.
