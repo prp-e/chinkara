@@ -88,4 +88,8 @@ print(answer)
 - [ ] Training on different datasets and check the outcome. 
     - [ ] Already existing datasets such as Alpaca or Dolly.
 - [ ] Training the model for specific tasks.
+    - [ ] FAQ Bot 
+    - [ ] Medical Question and Answering Bot 
+    - [ ] Personal/Home Assistant 
+    - [ ] Shopping Assistant
 - [ ] Providing Different models in terms of parameters, languages, etc.
