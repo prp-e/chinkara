@@ -14,6 +14,15 @@ _NOTE: This part is for the time you want to load and infere the model on your l
 
 ### Installing libraries
 
+```
+pip install  -U bitsandbytes
+pip install  -U git+https://github.com/huggingface/transformers.git
+pip install  -U git+https://github.com/huggingface/peft.git
+pip install  -U git+https://github.com/huggingface/accelerate.git
+pip install  -U datasets
+pip install  -U einops
+```
+
 ### Loading the model 
 
 ### Setting the model up
