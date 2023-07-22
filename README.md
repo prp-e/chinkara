@@ -6,4 +6,4 @@ _Chinkara_ is a Large Language Model trained on [timdettmers/openassistant-guana
 
 | Model | Notebook | Description |
 |:-----:|:--------:|:------------:|
-|[chinkara-7b](https://huggingdace.com/MaralGPT/chinkara-7b) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/prp-e/chinkara/blob/main/inference-7b.ipynb) | This is the smallest model of the family, trained on LLaMa-2 7B |
+|[chinkara-7b](https://huggingdace.com/MaralGPT/chinkara-7b) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prp-e/chinkara/blob/main/inference-7b.ipynb) | This is the smallest model of the family, trained on LLaMa-2 7B |
