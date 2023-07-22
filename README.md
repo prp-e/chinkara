@@ -93,3 +93,4 @@ print(answer)
     - [ ] Personal/Home Assistant 
     - [ ] Shopping Assistant
 - [ ] Providing Different models in terms of parameters, languages, etc.
+    - [ ] Providing 13B model
