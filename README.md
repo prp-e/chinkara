@@ -4,6 +4,8 @@
     <img src="https://github.com/prp-e/chinkara/blob/main/chinkara-logo.png?raw=true" width="256px" height="256px">
 </p>
 
+_Chinkara_ is a _Large Language Model (LLM)_ and has a goal of being an accurate and coherent model running on consumer hardware. The model is part of [MaralGPT](https://huggingface.co/MaralGPT) project, where we try to make LLMs more affordable for users, enthusiasts and researchers.
+
 ## Chinkara 7B
 _Chinkara 7B_ is a Large Language Model trained on [timdettmers/openassistant-guanaco](https://huggingface.co/datasets/timdettmers/openassistant-guanaco) dataset based on Meta's brand new LLaMa-2 with 7 billion parameters using QLoRa Technique, optimized for small consumer size GPUs. 
 
