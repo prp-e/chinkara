@@ -88,6 +88,7 @@ print(answer)
 - [ ] Gathering data and creating a dataset of our own. 
 - [ ] Training on different datasets and check the outcome. 
     - [ ] Already existing datasets such as Alpaca or Dolly.
+    - [ ] Creating Open QA dataset
 - [ ] Training the model for specific tasks.
     - [ ] FAQ Bot 
     - [ ] Medical Question and Answering Bot 
