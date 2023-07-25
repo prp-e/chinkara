@@ -1,4 +1,4 @@
-# Chinkara 7B
+# Chinkara LLMs
 
 <p align="center">
     <img src="https://github.com/prp-e/chinkara/blob/main/chinkara-logo.png?raw=true" width="256px" height="256px">
