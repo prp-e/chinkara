@@ -19,6 +19,7 @@ _Chinkara 7B_ is a Large Language Model trained on [timdettmers/openassistant-gu
 ## Changelogs 
 
 - `2023-07-28` : Today _chinkara-7b-improved_ uploaded to Huggingface. This model is still trained on Guanaco dataset, but it has better and more coherent results.
+    - _safety_ is now an issue in this model. This model won't answer to questions regarding illegal stuff (for example, you can't ask this model for a forbidden recipe or something like that.)
 
 ## Inference Guide
 
