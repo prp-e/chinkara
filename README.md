@@ -18,6 +18,8 @@ _Chinkara 7B_ is a Large Language Model trained on [timdettmers/openassistant-gu
 
 ## Changelogs 
 
+- `2023-07-28` : Today _chinkara-7b-improved_ uploaded to Huggingface. This model is still trained on Guanaco dataset, but it has better and more coherent results.
+
 ## Inference Guide
 
 _NOTE: This part is for the time you want to load and infere the model on your local machine. You still need 8GB of VRAM on your GPU. The recommended GPU is at least a 2080!_
