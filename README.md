@@ -14,6 +14,7 @@ _Chinkara 7B_ is a Large Language Model trained on [timdettmers/openassistant-gu
 | Model | Notebook | Description |
 |:-----:|:--------:|:------------:|
 |[chinkara-7b](https://huggingface.co/MaralGPT/chinkara-7b) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prp-e/chinkara/blob/main/inference-7b.ipynb) | This is the smallest model of the family, trained on LLaMa-2 7B |
+|[chinkara-7b-improved] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prp-e/chinkara/blob/main/inference-7b-improved.ipynb) | This is the same as the previous model, with minor changes. See changelogs to understand the difference. |
 
 ## Changelogs 
 
