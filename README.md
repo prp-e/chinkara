@@ -40,8 +40,8 @@ import torch
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
-model_name = "TinyPixel/Llama-2-7B-bf16-sharded" 
-adapters_name = 'MaralGPT/chinkara-7b' 
+model_name = "Trelis/Llama-2-7b-chat-hf-sharded-bf16" 
+adapters_name = 'MaralGPT/chinkara-7b-improved'
 
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
